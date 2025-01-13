@@ -2,15 +2,14 @@ Olá eu sou o Victor Hugo 👋
 
 - 🌱 Estudando Python e SQL
 
-##
-<div style="display: inline_block><br> 
-  
-  
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-                
-    
+<h1 align="left">Olá, seja bem vindo.</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CorreaVictorHugo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CorreaVictorHugo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CorreaVictorHugo&radius=16&theme=gruvbox&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-##
+###
