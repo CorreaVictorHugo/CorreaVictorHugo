@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e automações em Python. Estou sempre buscando aprender e aplicar novas tecnologias para criar soluções práticas e eficientes.</p>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e automações em Python e banco de dados SQL. Estou sempre buscando aprender e aplicar novas tecnologias para criar soluções práticas e eficientes.</p>
 
 ###
 
