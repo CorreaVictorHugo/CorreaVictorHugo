@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <img src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="40"></img>
 </div>
 
 
