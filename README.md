@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/CorreaVictorHugo/count.svg?"  />
+  <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
 </div>
 
 ###
