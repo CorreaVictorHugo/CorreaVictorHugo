@@ -25,10 +25,11 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/flask/original.svg" height="40"></img>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-   <img width="12" />
+  <img width="12" />
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="40"></img>
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" height="40"></img>
