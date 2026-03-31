@@ -31,7 +31,7 @@
    <img width="12" />
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="40"></img>
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
+  <img src="https://devicon-website.vercel.app/api/css3/original.svg" height="40"></img>
   
 </div>
 
