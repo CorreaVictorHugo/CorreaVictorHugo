@@ -34,6 +34,10 @@
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="40"></img>
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" height="40"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/apache/original.svg" height="40"></img>
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/docker/original.svg" height="40"></img>
   
 </div>
 
