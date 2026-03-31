@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e automações em Python e banco de dados SQL. Estou sempre buscando aprender e aplicar novas tecnologias para criar soluções práticas e eficientes.</p>
+<p align="left">Profissional em transição para a área de tecnologia, com foco em desenvolvimento de soluções orientadas a dados e automação de processos. Possuo experiência prática com Python, SQL e Power BI, atuando na construção de pipelines de dados (ETL), modelagem relacional e desenvolvimento de dashboards analíticos. Atualmente trabalho com automação e orquestração de processos utilizando Control-M, aplicando conceitos de eficiência operacional e confiabilidade em ambientes corporativos. Busco constantemente evoluir minhas habilidades técnicas, desenvolvendo projetos que integram engenharia de dados, análise e visualização para gerar valor real ao negócio..</p>
 
 ###
 
