@@ -42,17 +42,6 @@ Meu objetivo é construir projetos que conectem engenharia de dados, análise, v
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
 </p>
 
-## GitHub em números
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CorreaVictorHugo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorreaVictorHugo&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CorreaVictorHugo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</div>
-
 ## Vamos conectar?
 
 <p>
