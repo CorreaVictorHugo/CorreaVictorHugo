@@ -15,9 +15,9 @@
 
 ## Sobre mim
 
-Sou profissional em transição para a área de tecnologia, com foco em desenvolvimento de soluções orientadas a dados, automação de processos e confiabilidade operacional.
+Sou profissional de tecnologia com foco em desenvolvimento de soluções orientadas a dados, automação de processos e confiabilidade operacional.
 
-Tenho experiência prática com **Python**, **SQL**, **Power BI**, modelagem relacional, pipelines de dados e rotinas de **ETL**. Atualmente atuo com automação e orquestração de processos utilizando **Control-M**, aplicando conceitos de eficiência, rastreabilidade e estabilidade em ambientes corporativos.
+Tenho experiência prática com **Python**, **SQL**, **Power BI**, modelagem relacional, pipelines de dados e rotinas de **ETL**. Atualmente atuo em uma empresa multinacional com automação e orquestração de processos utilizando **Control-M**, aplicando conceitos de eficiência, rastreabilidade e estabilidade em ambientes corporativos.
 
 Meu objetivo é construir projetos que conectem engenharia de dados, análise, visualização e automação para gerar valor real ao negócio.
 
