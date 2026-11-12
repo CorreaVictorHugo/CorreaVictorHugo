@@ -55,9 +55,7 @@ Meu objetivo é construir projetos que conectem engenharia de dados, análise, v
 
 ## Vamos conectar?
 
-<p>
-  Estou sempre evoluindo meus projetos e aberto a trocar ideias sobre dados, automação, dashboards e desenvolvimento de soluções práticas.
-</p>
+Estou aberto a conversar sobre engenharia de dados, automação e desenvolvimento web. [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/victor-hn-correa/) ou explore meus projetos públicos acima.
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0ea5e9,50:22c55e,100:f59e0b&section=footer" alt="Footer" />
