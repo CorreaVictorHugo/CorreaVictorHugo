@@ -42,6 +42,17 @@ Meu objetivo é construir projetos que conectem engenharia de dados, análise, v
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
 </p>
 
+## Projetos em destaque
+
+| Projeto | O que demonstra | Acesso |
+| --- | --- | --- |
+| [Base Scout](https://github.com/CorreaVictorHugo/base-scout) | Aplicação em React e Supabase para gestão de atletas de base, com dados fictícios na demonstração. | [Demo](https://base-scout-sigma.vercel.app/?demo=1) |
+| [Pipeline ETL de DRE](https://github.com/CorreaVictorHugo/pipeline-etl-databricks-powerbi-dre) | Transformação de planilhas financeiras com Azure Databricks, PySpark, Delta Lake e Power BI. | Código e documentação |
+| [GovInsight AI](https://github.com/CorreaVictorHugo/Gov_Insiht) | Análise de dados públicos com ETL em Python, dashboard Streamlit e recursos de IA. | Código e documentação |
+| [Portfólio web](https://github.com/CorreaVictorHugo/victor-hugo-portfolio) | Portfólio desenvolvido com React, TypeScript, Vite e GSAP. | [Site](https://victor-hugo-portfolio-mocha.vercel.app/) |
+| [Origem Oncopatologia](https://github.com/CorreaVictorHugo/origem-oncopatologia-site) | Site institucional responsivo em HTML, CSS e JavaScript. | [Site](https://origemoncopatologiav3.netlify.app/) |
+| [Tonay Park](https://github.com/CorreaVictorHugo/Landing_Page_tonay_botafogo) | Landing page responsiva para estacionamento, com contato por WhatsApp. | [Site](https://tonay-park-botafogo.netlify.app/) |
+
 ## Vamos conectar?
 
 <p>
